@@ -1,4 +1,4 @@
-echo "# telecom_Churn_case_AI" >> README.md
+echo "# telecom_Churn_case_AIML" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
